@@ -2,6 +2,7 @@ title: Мой виртуальный городок
 email: vitalisbox@gmail.com
 
 url: "https://vitalis.me"
+permalink: none
 
 theme: minima
 plugins:
